@@ -2,14 +2,14 @@
 # Web Developer
 ![Web Developer](https://pbs.twimg.com/profile_banners/1275236749606883331/1609305976/1500x500)
 
-From Brooklyn, NY, and I'm a self taught Software Engineer/Web Developer. I started my journey into Web Development in 2019 and have learned new skills that I'm confident in. I'm always learning something new everyday and knowing where to search up answers to help with an issue I would say is a skill in itself.
+Software Engineer from Queens, NY who previously worked as a security guard. Currently working on a on going Project at lambda School with a group of Web developers and data scientist. My speciality leans more into Front end development working with bringing designs into the web.
 
-## Skills: REACT / JS / HTML / CSS/Git / Netlify / Bootstrap
+## Skills: REACT / Redux / JS / Node / Python / HTML / CSS / Git / Netlify / Vercel
 
-- 🔭 I’m currently working on new React Project 
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on a Full Stack Project with a team 
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: Randyortiz28@gmail.com 
-- ⚡ Fun fact: Good day is having morning Coffe and a nice walk with my dog Benji. 
+- ⚡ Fun fact: Enjoy watching Anime and having a cup of coffee in the morning 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Randyo28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/randy-ortiz-6a8027193//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Randyo28/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Randyo28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.randyortiz.net/)  
