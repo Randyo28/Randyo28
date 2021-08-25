@@ -6,8 +6,8 @@ Software Engineer from Queens, NY who previously worked as a security guard. Cur
 
 ## Skills: REACT / Redux / JS / Node / Python / HTML / CSS / Git / Netlify / Vercel
 
-- 🔭 I’m currently working on a Full Stack Project with a team 
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working as an intern with a team 
+- 🌱 I’m currently learning Next.js and firebase. Currently reading "The 5am Club"
 - 📫 How to reach me: Randyortiz28@gmail.com 
 - ⚡ Fun fact: Enjoy watching Anime and having a cup of coffee in the morning 
 
